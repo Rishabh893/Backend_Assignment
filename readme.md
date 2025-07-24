@@ -28,7 +28,7 @@ Follow these steps to get your development environment set up and running.
 1.  **Clone the repository**
     ```bash
     git clone <your-repository-url>
-    cd project-backend
+    cd backend_assignment
     ```
 
 2.  **Install dependencies**
